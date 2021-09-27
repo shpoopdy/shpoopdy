@@ -3,9 +3,7 @@ My name is Mikey and I am currently a student at Humboldt State University getti
 
 <details>
 <summary>Used Languages</summary>
-```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpoopdy)](https://github.com/shpoopdy/github-readme-stats)
-```
 </details>
 
 <!--
