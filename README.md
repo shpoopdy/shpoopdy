@@ -4,7 +4,7 @@ My name is Mikey and I am currently a student at Humboldt State University getti
 <details>
 <summary>Used Languages</summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpoopdy)](https://github.com/shpoopdy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpoopdy&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/shpoopdy/github-readme-stats)
   
 </details>
 
