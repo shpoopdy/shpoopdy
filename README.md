@@ -1,8 +1,10 @@
 ### Howdy ☕
 My name is Mikey and I am currently a student at Humboldt State University getting my bachelors degree in Computer Science.
 
+<summary>Used Languages</summary>
+```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpoopdy)](https://github.com/shpoopdy/github-readme-stats)
-
+```
 
 <!--
 **shpoopdy/shpoopdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
