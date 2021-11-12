@@ -1,5 +1,5 @@
 ### Howdy ☕
-My name is Mikey and I am currently a student at Humboldt State University getting my bachelors degree in Computer Science and my expected graduation date is 2023.
+My name is Mikey and I am currently a student at Humboldt State University getting my bachelors degree in Computer Science. My expected graduation date is 2023.
 
 <details>
 <summary>Used Languages</summary>
