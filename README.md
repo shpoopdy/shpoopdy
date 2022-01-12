@@ -1,5 +1,6 @@
 ### Howdy ☕
 My name is Mikey and I am currently a student at Humboldt State University getting my bachelors degree in Computer Science. My expected graduation year is 2023.
+I have taken classes on Data Structures, Database Design, Python, and Computer Architecture.
 
 <details>
 <summary>Used Languages</summary>
