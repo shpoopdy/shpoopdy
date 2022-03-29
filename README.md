@@ -9,6 +9,16 @@ I have taken classes on Data Structures, Database Design, Python, and Computer A
   
 </details>
 
+👔 [linkedin][linkedin]
+🐦 [twitter][twitter] **|**
+📺 [youtube][youtube] **|**
+
+
+
+[linkedin]: https://www.linkedin.com/in/michael-crispin-jr-b00a15104/
+[twitter]: https://twitter.com/shpoody
+[youtube]: https://www.youtube.com/channel/UCaRbyJwt7N2RtOB7tWPPN3w
+
 <!--
 **shpoopdy/shpoopdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
