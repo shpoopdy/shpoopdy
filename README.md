@@ -16,7 +16,7 @@ I have taken classes on Data Structures, Database Design, Python, and Computer A
 
 
 [linkedin]: https://www.linkedin.com/in/michael-crispin-jr-b00a15104/
-[twitter]: https://twitter.com/shpoody
+[twitter]: https://twitter.com/shpoopdy
 [youtube]: https://www.youtube.com/channel/UCaRbyJwt7N2RtOB7tWPPN3w
 
 <!--
