@@ -9,9 +9,9 @@ I have taken classes on Data Structures, Database Design, Python, and Computer A
   
 </details>
 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|**
-📺 [youtube][youtube] **|**
+📺 [youtube][youtube]
 
 
 
