@@ -2,12 +2,9 @@
 My name is Mikey and I am currently a student at Cal Poly Humboldt getting my bachelors degree in Computer Science. My expected graduation year is 2023.
 I have taken or am currently taken classes on Data Structures, Database Design, Python, Computer Architecture, and Algorithms.
 
-<details>
-Used Languages
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpoopdy&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/shpoopdy/github-readme-stats)
-  
-</details>
+### Used Languages
+
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
 👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|**
