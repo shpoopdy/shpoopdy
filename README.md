@@ -3,7 +3,7 @@ My name is Mikey and I am currently a student at Cal Poly Humboldt getting my ba
 I have taken or am currently taken classes on Data Structures, Database Design, Python, Computer Architecture, and Algorithms.
 
 <details>
-<summary>Used Languages</summary>
+Used Languages
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpoopdy&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/shpoopdy/github-readme-stats)
   
