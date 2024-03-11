@@ -1,6 +1,5 @@
 ### Howdy ☕
-My name is Mikey and I am currently a student at Cal Poly Humboldt getting my bachelors degree in Computer Science. My expected graduation year is 2023.
-I have taken or am currently taken classes on Data Structures, Database Design, Python, Computer Architecture, and Algorithms.
+Software Engineer and not nerdy
 
 ### Used Tech
 
