@@ -1,5 +1,5 @@
 ### Howdy ☕
-Software Engineer and not nerdy
+Developer and not nerdy
 
 ### Used Tech
 
