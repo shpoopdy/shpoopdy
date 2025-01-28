@@ -1,7 +1,7 @@
 ### Howdy ☕
 Developer and not nerdy
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpoopdy&theme=highcontrast&hide=ShaderLab)](https://github.com/shpoody/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpoopdy&theme=onedark&hide=ShaderLab)](https://github.com/shpoody/github-readme-stats)
 
 <!--
 **shpoopdy/shpoopdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
